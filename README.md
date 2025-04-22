@@ -9,3 +9,31 @@
 
 <h1> Hi 👋 </h1>
 </div>
+
+---
+
+### 👨‍💻 Обо мне:
+Я разработчик на C# и Python с 3-летним опытом. Увлекаюсь backend-разработкой, алгоритмами и автоматизацией процессов. Открыт к сотрудничеству и новым интересным проектам!
+
+---
+
+### 🛠️ Технологии и инструменты:
+- **Языки программирования**: C#, Python
+- **Фреймворки**: .NET
+- **Базы данных**: SQLite
+- **Инструменты**: Git, Visual Studio, VS Code, PyCharm
+
+---
+
+### 📈 Моя статистика на GitHub:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArsenGad007&layout=compact&theme=dark)](https://github.com/yourusername)
+
+---
+
+### 📫 Как связаться со мной:
+- Telegram: [@ArsenGad](https://t.me/ArsenGad)
+
+---
+
+⭐️ Спасибо за посещение моего профиля! Буду рад сотрудничеству и общению.
