@@ -27,7 +27,7 @@
 
 ### 📈 Моя статистика на GitHub:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArsenGad007&layout=compact&theme=dark)](https://github.com/yourusername)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArsenGad007&layout=compact&theme=dark)](https://github.com/ArsenGad007)
 
 ---
 
